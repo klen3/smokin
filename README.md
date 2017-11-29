@@ -1,0 +1,2 @@
+# smokin
+GitHub Pages
